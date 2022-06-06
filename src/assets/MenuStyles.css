@@ -1,0 +1,19 @@
+.centrado{
+    text-align: center;
+    padding: 50px;
+    color: blue;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content:space-evenly ;
+    
+
+    
+    }
+.button{
+    
+    
+}
