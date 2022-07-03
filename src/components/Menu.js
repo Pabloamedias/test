@@ -8,11 +8,15 @@ const Menu = () => {
       <h1 className="centrado">¡Bienvenida Maritza!</h1>
       <h2 className="centrado">¿Que necesitas hacer hoy?</h2>
       <div className="botones">
-        <Button className="button" size="lg">
+        <Button className="button" size="lg" href="/formulario">
           Ingresar pedido
         </Button>
         <Button className="button" size="lg">
           Revisar Historial
+        </Button>
+
+        <Button className="button" size="lg">
+          Ingresar/Modificar producto
         </Button>
       </div>
     </div>

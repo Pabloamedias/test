@@ -1,0 +1,43 @@
+.divisiones{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 30px;
+    
+    
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.icard{
+    padding: 10px;
+}
+
+h6{
+    padding-top: 15px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.boton{
+    align-self: center;
+}
+
+.buttons{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+
