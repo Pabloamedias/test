@@ -10,7 +10,7 @@ const Login = () => {
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Nombre</Form.Label>
           <Form.Control
-            type="email"
+            type="text"
             placeholder="Ingresa tu nombre de usuario"
           />
         </Form.Group>
